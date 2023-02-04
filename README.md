@@ -24,7 +24,7 @@ In this app you can register/login to our app, and as a registered user save pri
 
 # Project Install and RUN<br>
 • PRE-Install<br>
-  - provide .env file for the Server Side folder that include:<br>
+  - provide .env file for the Server Side folder that include:
     "PORT, MONGO_DB_URL, PASS_SEC, JWT_SEC"<br>
 • Client Side:<br>
   - "cd Client"<br>
