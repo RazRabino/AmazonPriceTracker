@@ -13,11 +13,11 @@ In this app you can register/login to our app, and as a registered user save pri
 [ExpressJS](https://expressjs.com/) •
 [ReactJS](https://reactjs.org/) •
 [NodeJS](https://nodejs.org/en/) •
-[Bootstrap](https://getbootstrap.com/) *
-[NodeCron](https://www.npmjs.com/package/node-cron) *
-[JQuery](https://jquery.com/) *
-[CryptoJS](https://www.npmjs.com/package/crypto-js) *
-[NodeMailer](https://nodemailer.com/about/)
+[Bootstrap](https://getbootstrap.com/) •
+[NodeCron](https://www.npmjs.com/package/node-cron) •
+[JQuery](https://jquery.com/) •
+[CryptoJS](https://www.npmjs.com/package/crypto-js) •
+[NodeMailer](https://nodemailer.com/about/) •
 [Puppeteer](https://pptr.dev/)
 
 </div>
