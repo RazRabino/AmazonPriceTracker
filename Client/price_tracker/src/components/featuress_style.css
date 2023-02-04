@@ -1,0 +1,20 @@
+#features {
+    width: 79%;
+    margin-right: 20.5vh;
+}
+
+#features_content {
+    min-height: 25vh;
+}
+
+@media only screen and (max-width: 600px) {
+    #features {
+        width: 100%;
+        margin-right: 0vh;
+        margin-left: 0vh;
+    }
+
+    #features_content {
+        min-height: 0vh;
+    }
+}

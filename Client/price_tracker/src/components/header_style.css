@@ -1,0 +1,19 @@
+#header {
+    background-image: url(../img/header.jpg);
+    background-size: 50%;
+    height: 45vh;
+    padding-top: 10vh;
+    width: 75%;
+    margin-right: 13vw;
+}
+
+@media only screen and (max-width: 600px) {
+    #header {
+        background-image: url(../img/header.jpg);
+        background-size: 30%;
+        width: 95%;
+        height: 50vh;
+        padding-top: 2vh;
+        margin-right: 2.5vw;
+    }
+}
