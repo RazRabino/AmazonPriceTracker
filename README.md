@@ -21,3 +21,17 @@ In this app you can register/login to our app, and as a registered user save pri
 [Puppeteer](https://pptr.dev/)
 
 </div>
+
+# Project Install
+• PRE-Install
+  - provide .env file for the Server Side folder that include:
+    "PORT, MONGO_DB_URL, PASS_SEC, JWT_SEC"
+• Client Side:
+  - "cd Client"
+  - "cd price_tracker"
+  - "npm install:
+  - "npm start"
+• Server Side:
+  - "cd Server"
+  - "npm install"
+  - "node index"
