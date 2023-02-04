@@ -23,19 +23,19 @@ In this app you can register/login to our app, and as a registered user save pri
 </div>
 
 # Project Install and RUN
-<h1>• PRE-Install</h1><br>
+<h3>• PRE-Install</h3><br>
 <div align="center">
   - provide .env file for the Server Side folder that include:
     "PORT, MONGO_DB_URL, PASS_SEC, JWT_SEC"
 </div>
-<h1>• Client Side:</h1><br>
+<h3>• Client Side:</h3><br>
 <div align="center">
   - "cd Client"<br>
   - "cd price_tracker"<br>
   - "npm install:<br>
   - "npm start"<br>
 </div>
-<h1>• Server Side:</h1><br>
+<h3>• Server Side:</h3><br>
 <div align="center">
   - "cd Server"<br>
   - "npm install"<br>
