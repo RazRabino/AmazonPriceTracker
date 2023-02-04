@@ -29,11 +29,15 @@ In this app you can register/login to our app, and as a registered user save pri
     "PORT, MONGO_DB_URL, PASS_SEC, JWT_SEC"
 </div>
 • Client Side:<br>
+<div align="center">
   - "cd Client"<br>
   - "cd price_tracker"<br>
   - "npm install:<br>
   - "npm start"<br>
+</div>
 • Server Side:<br>
+<div align="center">
   - "cd Server"<br>
   - "npm install"<br>
   - "node index"<br>
+</div>
