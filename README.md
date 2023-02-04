@@ -5,7 +5,7 @@
 
 Amazon Price Tracker - track prices of any product on amazon using our web app or api. Our web app and API
 using some of the newest web technologies like MERN stack (MongoDB, Express, React, Nodejs), bootstrap, node-cron, 
-, jquery, vannila js, crypto-js, nodemailer, puppeteer and more...
+jquery, vannila js, crypto-js, nodemailer, puppeteer and more...
 
 In this app you can register/login to our app, and as a registered user save price watch list, get email alerts and much more.
 
