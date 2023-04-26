@@ -9,13 +9,13 @@ async function sendMail(user, userSKU, userPrice, product) {
     const transporter = nodemailer.createTransport({
     service: 'gmail',
         auth: {
-            user: 'web0app.Price.Tracker',
-            pass: 'vthhthafbpsctshc'
+            user: '<Provide your email user>',
+            pass: '<Provide your email password>'
         }
     });
 
     const mailOptions = {
-        from: 'web0app.Price.Tracker@gmail.com',
+        from: '<Provide your email>',
         to: user.e_mail,
         subject: 'Price Alert!',
         text: `Hi ${user.user_name},\nyour watch listed Product: ${product.title.trim()} has been changed,\nand now the price(${product.price}) is lower then your wanted price ${userPrice}\ncome back to our site to buy it.\nPriceTracker.`
